@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_cadastrar">Cadastrar</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="digite_seu_chute">Digite seu chute</string>
+    <string name="hint_idade">Idade</string>
+    <string name="hint_nome">Nome</string>
+    <string name="hint_time">Time</string>
+    <string name="imagem_pensando">Pensando</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="rodape">Desenvolvido por: Douglas</string>
+    <string name="santos">Santos</string>
+    <string name="sao_paulo">São Paulo</string>
+    <string name="selecione">Selecione o time</string>
+    <string name="titulo">Time S2</string>
+    <string name="confirmacao_cadastro">"Olá, %1$s parabéns por torcer pelo %2$s.\n    "</string>
+</resources>

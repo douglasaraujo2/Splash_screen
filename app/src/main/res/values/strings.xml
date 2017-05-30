@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Time S2</string>
+    <string name="titulo">Time S2</string>
+    <string name="digite_seu_chute">Type your guess</string>
+    <string name="rodape">Developed by: Douglas</string>
+    <string name="imagem_pensando">Thinking</string>
+    <string name="hint_nome">Name</string>
+    <string name="hint_idade">Age</string>
+    <string name="hint_time">Team</string>
+    <string name="selecione">Select a team</string>
+    <string name="corinthians">Corinthians</string>
+    <string name="palmeiras">Palmeiras</string>
+    <string name="santos">Santos</string>
+    <string name="sao_paulo">São Paulo</string>
+    <string name="button_cadastrar">Register</string>
+    <string name="confirmacao_cadastro">"Hello, %1$s congratulations on cheering for %2$s.\n    "</string>
+</resources>
